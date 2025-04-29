@@ -1,7 +1,7 @@
+# This repository was prepared by the team: Aysel Mirzoeva and Borisiuk Anna
 # 🌌 Galaxy Image Classification
 **📚 Course:** Deep Learning for Computer Vision  
 **📝 Homework:** Galaxy Image Classification with Galaxy10 DECals Dataset
-
 ---
 
 ## 🎯 Objective
