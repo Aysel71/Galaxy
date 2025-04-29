@@ -89,5 +89,5 @@ After evaluation, report:
 ## 🌟 Conclusion
 This project helps you practice applying deep learning techniques to real-world astronomical data 🌠 and strengthens your skills in image classification tasks!
 
-You can find full training logs and metrics at [Galaxy10 Classification WandB Project](https://wandb.ai/a8or1suk-skoltech/galaxy10_classification/reports/Galaxy10-Experiments--VmlldzoxMjUyODMwNQ?accessToken=957u51spii30qq8e1giskwvc214wqxohxaukwwe15vnyqr0cm45pf5545derlm7h).
+You can find full training logs (EfficientNet_part2.ipynb and EffNet-Wavemix_part1.ipynb) and metrics at [Galaxy10 Classification WandB Project](https://wandb.ai/a8or1suk-skoltech/galaxy10_classification/reports/Galaxy10-Experiments--VmlldzoxMjUyODMwNQ?accessToken=957u51spii30qq8e1giskwvc214wqxohxaukwwe15vnyqr0cm45pf5545derlm7h).
 
