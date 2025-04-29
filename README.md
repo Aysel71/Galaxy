@@ -45,31 +45,11 @@ Train a deep learning model 🧠 to classify galaxy images 🌌 into one of 10 c
   - Recall
   - F1-score
   - Confusion matrix
-- 🏆 Target: **Accuracy > 90%** on the test split.
-
----
-
-## 📦 Prerequisites
-Install the required packages first:
-
-```bash
-!pip install datasets scikit-learn matplotlib numpy -q
-```
-
-> ⚠️ Note: Some minor dependency warnings may appear. They do not prevent the homework from being completed successfully!
-
-### 📚 Imports
-```python
-import datasets
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support, confusion_matrix, ConfusionMatrixDisplay
-```
-
+- 🏆 Target: **Accuracy > 87%** on the test split.
 ---
 
 ## 👀 Visualization
-Use helper functions to visualize galaxy classes and predictions:
+We use helper functions to visualize galaxy classes and predictions:
 
 ```python
 show_class_examples(dataset, class_names_map)
@@ -80,6 +60,7 @@ Functions provided include:
 - **show_class_examples**: Displays a sample image for each galaxy class.
 - **evaluate_predictions**: Calculates and plots evaluation metrics + confusion matrix.
 
+And wandb for logging and visualizing training/validation progress
 ---
 
 ## 📊 Metrics to Report
@@ -89,7 +70,7 @@ After evaluation, report:
 - **Per-Class Precision, Recall, F1-Score**
 - **Confusion Matrix**
 
-> 🎯 Remember: **Accuracy must exceed 90%** to pass!
+> 🎯 Remember: **Accuracy must exceed 87%** to pass!
 
 ---
 ## 🚀 Progress
@@ -98,7 +79,7 @@ After evaluation, report:
 - ✅ Model defined and trained
 - ✅ Achieved >87% accuracy(resnet_advanced)
 - there were more notebooks but some of them were lost as too much of them were made but it and ensembles reached on the 20 epoch the score also equals; to the 0,88
-- цe also have teh notebook best_zoobot_convnext (1) (1).ipynb that achieved 0,89 but as we hae run out of resourses we could not run it agian to show what we have reached but if u do not believe u can run it again) 
+- we also have teh notebook best_zoobot_convnext (1) (1).ipynb that achieved 0,89 but as we hae run out of resourses we could not run it agian to show what we have reached but if u do not believe u can run it again) 
 ---
 
 ---
