@@ -79,7 +79,8 @@ After evaluation, report:
 - ✅ Model defined and trained
 - ✅ Achieved >87% accuracy(resnet_advanced)
 - there were more notebooks but some of them were lost as too much of them were made but it and ensembles reached on the 20 epoch the score also equals; to the 0,88
-- we also have teh notebook best_zoobot_convnext (1) (1).ipynb that achieved 0,89 but as we hae run out of resourses we could not run it agian to show what we have reached but if u do not believe u can run it again) 
+- we also have teh notebook best_zoobot_convnext (1) (1).ipynb that achieved 0,89 but as we hae run out of resourses we could not run it agian to show what we have reached but if u do not believe u can run it again)
+- EfficientNet_part2.ipynb gave 87% on accuracy thanks to EfficientNet_B3
 ---
 
 ---
