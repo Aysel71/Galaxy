@@ -97,9 +97,11 @@ After evaluation, report:
 - ✅ Dataset loaded
 - ✅ Preprocessing done
 - ✅ Model defined and trained
-- ✅ Achieved >90% accuracy
+- ✅ Achieved >87% accuracy(resnet_advanced)
+- there were more notebooks but some of them were lost as too much of them were made but it and ensembles reached on the 20 epoch the score also equals; to the 0,88
 
 ---
+
 
 ## 🌟 Conclusion
 This project helps you practice applying deep learning techniques to real-world astronomical data 🌠 and strengthens your skills in image classification tasks!
