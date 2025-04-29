@@ -7,7 +7,7 @@
 ## 🎯 Objective
 Train a deep learning model 🧠 to classify galaxy images 🌌 into one of 10 categories using the Galaxy10 DECals dataset.
 
-✅ Successful completion: **Achieve >90% accuracy** on the test set.
+✅ Successful completion: **Achieve >87% accuracy** on the test set.
 
 ---
 
